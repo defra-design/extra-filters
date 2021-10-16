@@ -1,6 +1,6 @@
 {
-  "name": "@chrissybarrett/extra-filters",
-  "version": "1.0.12",
+  "name": "@defra-design/extra-filters",
+  "version": "1.0.0",
   "description": "a package for extending the filters on a prototype",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,6 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/Chrissy-Barrett/extra-filters"
+    "url": "git://github.com/defra-design/extra-filters"
   }
 }
