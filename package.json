@@ -1,0 +1,16 @@
+{
+  "name": "@chrissybarrett/extra-filters",
+  "version": "1.0.12",
+  "description": "a package for extending the filters on a prototype",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "node copyFile.js",
+    "autosetup": "node autoSetup.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Chrissy-Barrett/extra-filters"
+  }
+}
