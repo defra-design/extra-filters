@@ -8,7 +8,7 @@ The extra-filters file contains a list of custom filters that help to solve comm
 
 ## Installation instructions
 
-`npm install @chrissybarrett/extra-filters`
+`npm install @defra-design/extra-filters`
 
 This will copy the _extra-filters.js_ file to your prototype.
 
@@ -31,7 +31,7 @@ exports.addNunjucksFilters = function (env) {
 
 Or you can run the autosetup script. To run the autosetup script.
 
-`cd /{Your prototype directory}/node_modules/@chrissybarrett/extra-filters`
+`cd /{Your prototype directory}/node_modules/@defra-design/extra-filters`
 
   `npm run autosetup`
         
